@@ -7,4 +7,4 @@ REQUIREMENTS:
 
 .NET Framework 4.6 or later.
 
-https://ibb.co/HpFfFXC
+<a href="https://ibb.co/HpFfFXC"><img src="https://i.ibb.co/BKz5zwG/namechanger-proof.png" alt="namechanger-proof" border="0"></a>
